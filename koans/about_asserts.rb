@@ -34,7 +34,7 @@ class AboutAsserts < Neo::Koan
   end
 
   # Sometimes we will ask you to fill in the values
-  # just now remembered that I was supposed to commit for every test that passed. Sorry...
+  # just now remembered that I was supposed to commit for every test that passed...
   def test_fill_in_values
     assert_equal 2, 1 + 1
   end
